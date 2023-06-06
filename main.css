@@ -68,7 +68,7 @@ width: 50%;
 /* Video merger section */
 .video-meger-section{
     background: #359602 no-repeat url("images/patternpad.png");
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     color: white;
 }
@@ -142,6 +142,8 @@ width: 50%;
     border-radius: 20px;
     text-align: center;
     margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .rectangle-bg {
     text-align: center;
@@ -182,7 +184,7 @@ width: 50%;
 .footer{
     background-color: #359602;
     color: white;
-    padding: 15px;
+    padding: 40px;
     margin-top: 30px;
     font-size:13px;
     list-style: none;
