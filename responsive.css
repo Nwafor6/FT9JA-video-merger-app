@@ -34,3 +34,12 @@
         padding: 15px;
     }
 }
+@media(max-width:300px){
+    .merger-btn-holder button {
+        width: 100%;
+    }
+    .video-description {
+        width: 100%;
+
+    }
+}

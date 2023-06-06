@@ -19,6 +19,13 @@ a{
 }
 
 /* Navbar section */
+.navbar-light .navbar-toggler {
+    color: #ffffff;
+    border-color: #359602;
+}
+.navbar-toggler{
+    border: 1px solid #359602;
+}
 .nav-section{
     padding-left: 15px;
     padding-right: 15px;
