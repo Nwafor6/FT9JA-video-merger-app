@@ -29,3 +29,8 @@
         margin-right: auto;
     }
 }
+@media(max-width:570px){
+    .pagebody{
+        padding: 15px;
+    }
+}
